@@ -1,5 +1,5 @@
 // Set background image (replace with your image path)
-document.getElementById('background').style.backgroundImage = "url('images/your-background.jpg')";
+document.getElementById('background').style.backgroundImage = "url('images/weimarstraße.jpg')";
 
 // Button event listeners (customize these)
 document.getElementById('btn1').addEventListener('click', () => {
