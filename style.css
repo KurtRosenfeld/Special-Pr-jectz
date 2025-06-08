@@ -8,6 +8,13 @@ body, html {
     font-family: Arial, sans-serif;
 }
 
+body {
+    border: 15px solid #848187;
+    min-height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+}
+
 /* Add a frame around the entire viewport */
 body::before {
     content: "";
